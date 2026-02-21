@@ -27,7 +27,7 @@ Database: Relational structure linking expenses and trips to unique Vehicle IDs.
 Design Blueprint: View the Excalidraw Mockup.
 🔄 The FleetFlow Workflow
 Vehicle Intake: Add "Van-05" (500kg capacity).
-Compliance Check: Add Driver "Alex." System verifies license for the "Van" category.
+Compliance Check: Add Driver "Alex." System verifies license for the "Van" category...
 Dispatching: Assign Alex to Van-05 for a 450kg load. System validates ($450 < 500$) and marks both as "On Trip".Completion: Driver logs final Odometer; status reverts to "Available".
 Analytics: System generates one-click CSV/PDF exports for payroll and health audits.🚀 Installation & SetupBash# Clone the repository
 git clone https://github.com/your-username/fleetflow.git
