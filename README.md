@@ -1,7 +1,7 @@
 # 🚚 FleetFlow: Modular Fleet & Logistics Management System
 
 ## 🎥 Project Demo
-[![Watch the Video Presentation](https://img.shields.io/badge/Watch-Video_Demo-red?style=for-the-badge&logo=youtube)](https://drive.google.com/file/d/1sZ8ZShr9T8jje-F6OJBDuSikaRBlL__6/view?usp=sharing)
+[[Watch the Video Presentation]](https://drive.google.com/file/d/1sZ8ZShr9T8jje-F6OJBDuSikaRBlL__6/view?usp=sharing)
 *(Click the badge above to watch our hackathon pitch!)*
 
 ---
